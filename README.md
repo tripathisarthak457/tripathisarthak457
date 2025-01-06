@@ -21,8 +21,8 @@
 ---
 
 ## 🛠️ Tech Stack  
-- **Programming Languages**: Kotlin, Java, and **learning Flutter (Dart)**  
-- **Tools & Frameworks**: Jetpack Compose  
+- **Programming Languages**: Kotlin, Java, and Dart.  
+- **Tools & Frameworks**: Jetpack Compose, Flutter 
 - **Design**: Figma  
 
 ---
