@@ -44,7 +44,6 @@
 ## 📫 Connect with Me  
 - **X (formerly Twitter)**: [@tsarthak457](https://x.com/tsarthak457)  
 - **Email**: [tripathisarthak457@gmail.com](mailto:tripathisarthak457@gmail.com)  
-- **Telegram**: [@crazyhusir](https://t.me/crazyhusir)  
 - **LinkedIn**: [Sarthak Tripathi](https://linkedin.com/in/ts15)  
 
 ---
